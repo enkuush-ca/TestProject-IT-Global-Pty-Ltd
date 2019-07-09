@@ -2,8 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
+## Project Requirement
+• Create a grid presentation component that displays the user data fetched from the Restful API: (https://jsonplaceholder.typicode.com/users)<br>
+• Create a presentation component that displays detail data for a row selected from the grid.<br>
+• Create a smart component that contains the grid and the user detail<br>
+
 ## Technology
-• Angular 8
+• Angular 8<br>
 • Followed Official Angular Style Guide (https://angular.io/guide/styleguide)
 
 ## Development server
