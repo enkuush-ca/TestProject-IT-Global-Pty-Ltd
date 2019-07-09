@@ -1,0 +1,15 @@
+.row.forms .form-group{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.row.forms .form-group h3{
+    width: 20%;
+}
+
+.row.forms .form-group input{
+    width: 80%;
+}
